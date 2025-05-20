@@ -1,4 +1,4 @@
-## Résumé
+## summary
 
 **Nom du projet** : movie-recommender-ai
 **Objectif** : Un système de recommandation de films utilisant l'analyse des genres et la similarité cosinus
